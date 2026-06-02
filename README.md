@@ -30,11 +30,14 @@ is planned and will be added before the workshop.
 Please prepare:
 
 - A Google account for opening and running notebooks in Google Colab.
-- An OpenRouter account and API key for model access: <https://openrouter.ai/>.
-- A small amount of OpenRouter credit if you plan to run all examples yourself.
+- A workshop API key. This will be provided to each participant before the
+  session, either by email or through another workshop communication channel.
 
 Do not paste your API key into notebook text cells, screenshots, shared documents,
 or public code. The notebooks use hidden input prompts for keys.
+
+Participants do not need to create an OpenRouter account or add OpenRouter
+credit for this session.
 
 ## Optional Local Use
 
