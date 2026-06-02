@@ -3,7 +3,7 @@ Materials for Baltic Summer School of Digital Humanities (BSSDH 2026) workshop o
 
 ## BSSDH 2026
 
-[BSSDH 2026 HomePage](https://www.digitalhumanities.lv/bssdh/2026/
+[BSSDH 2026 HomePage](https://www.digitalhumanities.lv/bssdh/2026/)
 
 ## Workshops 
 
