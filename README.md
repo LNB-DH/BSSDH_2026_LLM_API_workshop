@@ -108,3 +108,8 @@ Contact: valdis.saulespurens at lnb.lv
 - [BSSDH 2026 home page](https://www.digitalhumanities.lv/bssdh/2026/)
 - [All BSSDH 2026 lectures and workshops](https://www.digitalhumanities.lv/bssdh/2026/lectures-and-workshops/)
 - [2025 workshop repository](https://github.com/ValRCS/BSSDH_2025_workshop_LLM_API)
+
+## Instructor Materials
+
+Organizer-only notebooks for provisioning and emailing workshop API keys are
+documented in [notebooks/for_instructors/README.md](notebooks/for_instructors/README.md).

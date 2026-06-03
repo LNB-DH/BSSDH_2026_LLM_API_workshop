@@ -78,6 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Instructor-generated private files
+temp/
+notebooks/temp/
+notebooks/for_instructors/temp/
+
 # IPython
 profile_default/
 ipython_config.py
