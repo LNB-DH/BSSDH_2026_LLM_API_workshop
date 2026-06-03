@@ -44,14 +44,11 @@ credit for this session.
 ## Optional Local Use
 
 Colab is the expected environment for the workshop. If you prefer to work
-locally, you can use VS Code with the Jupyter extension and a Python environment
-that includes the packages used by the notebooks, especially:
+locally, see [LOCAL_INSTRUCTIONS.md](LOCAL_INSTRUCTIONS.md) for detailed VS Code
+setup notes for Windows, macOS, and Ubuntu Linux.
 
-- `requests`
-- `tqdm`
-- `python-dotenv`
-- `openai`
-- `ipykernel`
+The local Python packages are listed in [requirements.txt](requirements.txt).
+Install them into a virtual environment before running the notebooks locally.
 
 The notebooks download workshop data as needed, so the data files are not stored
 directly in this repository.

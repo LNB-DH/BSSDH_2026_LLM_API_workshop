@@ -1,0 +1,14 @@
+# Core local notebook support
+ipykernel>=6.29
+jupyter>=1.1
+
+# Participant workshop notebooks
+openai>=1.0
+python-dotenv>=1.0
+requests>=2.31
+tqdm>=4.66
+
+# Instructor-only notebooks in notebooks/for_instructors
+openpyxl>=3.1
+pandas>=2.2
+sendgrid>=6.11
