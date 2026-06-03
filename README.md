@@ -18,12 +18,14 @@ available while you work.
 
 | Notebook | Topic | Open in Colab |
 | --- | --- | --- |
+| `workshop_session_0.ipynb` | Beginner preparation: Colab, Jupyter notebooks, Markdown, variables, and Python basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_0.ipynb) |
 | `workshop_session_1.ipynb` | LLM and API basics, OpenRouter setup, first API requests, JSON | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_1.ipynb) |
 | `workshop_session_2.ipynb` | Latvian Economic Review corpus, named entities, summaries, concept mining, batch processing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_2.ipynb) |
 | `workshop_session_3.ipynb` | Rigasche Zeitung corpus, historical OCR, translation, and image inputs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_3.ipynb) |
 
-An introductory notebook for first-time Google Colab, Jupyter, and Python users
-is planned and will be added before the workshop.
+Participants with no prior experience using Google Colab, Jupyter notebooks, or
+Python should complete `workshop_session_0.ipynb` a day or a few days before the
+workshop.
 
 ## Participant Preparation
 
