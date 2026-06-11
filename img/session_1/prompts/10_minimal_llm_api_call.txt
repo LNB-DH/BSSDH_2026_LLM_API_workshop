@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "Minimal example of LLM API usage".
+
+Scene and background:
+Warm Riga Old City archive workspace with historic rooftops and church spires visible through a window. Do not show the National Library of Latvia building, angular glass architecture, or any distorted modern library shape.
+
+Main subject:
+Show the simplest working LLM API call as a visual pipeline: API key token, model name selector, user prompt card, request arrow, response card, and a laptop with a small notebook cell. The example should feel approachable for beginners.
+
+Style:
+Clean educational illustration, warm digital humanities setting, polished but simple. Use cream paper, navy interface lines, muted teal arrows, and rust accents.
+
+Composition:
+Simple left-to-right pipeline on or above the desk, with a laptop and archive materials anchoring the image. Leave breathing room and avoid dense technical clutter.
+
+Constraints:
+No real API keys, no readable secrets, no brand logos, no watermark, no embedded title text. Any code or JSON should be symbolic linework only.

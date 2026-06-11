@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "Best Practices for API usage" and secure API key handling.
+
+Scene and background:
+Warm digital humanities archive desk with Riga Old City rooftops, church spires, and soft Daugava light through the window. Do not show the National Library of Latvia building, angular glass architecture, or any distorted modern library silhouette.
+
+Main subject:
+Show responsible API research practice: secure key vault or lock icon, cost monitoring gauge, request log, error handling, privacy-aware document handling, and reproducible notebook records. Include archival documents and a laptop with clean abstract panels.
+
+Style:
+Professional, calm, trustworthy educational illustration. Warm paper and wood textures balanced with crisp technical overlays. Restrained navy, cream, muted teal, and rust palette.
+
+Composition:
+Laptop and research materials centered, best-practice symbols arranged as clean cards around it. The mood should be careful and responsible, not alarmist.
+
+Constraints:
+No real secrets, no readable API keys, no logos, no watermark, no embedded title text, no fake warning banners, no clutter.

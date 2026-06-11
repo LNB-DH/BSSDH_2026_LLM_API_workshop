@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "What are LLMs?"
+
+Scene and background:
+Warm archive reading room with Riga Old City visible beyond the window: old roofs, church spires, and the Daugava river in soft atmospheric light. Do not depict the National Library of Latvia building, its angular glass silhouette, or any distorted modern landmark resembling it.
+
+Main subject:
+Show historical text fragments becoming token cards, moving through an abstract language model represented as a tasteful layered network or translucent processing panel, then returning as a structured response on a laptop with a Jupyter-like notebook. Include archival books and paper sources to anchor the concept in humanities research.
+
+Style:
+Professional educational illustration, polished but not flashy. Warm paper textures, wood desk, subtle digital overlays, navy and teal data accents, rust highlights.
+
+Composition:
+Foreground documents and laptop; token cards and context-window visual arc across the middle; Riga Old City softly visible in the background. Keep the image clear at notebook scale.
+
+Constraints:
+No embedded title text, no fake logos, no watermark, no dense readable text, no distorted hands. UI/code should be abstract linework only.

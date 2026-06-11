@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "About Google Colab".
+
+Scene and background:
+Archive reading table with a laptop open in a browser-based cloud notebook environment. Through the window, show Riga Old City rooftops, church spires, and a soft Daugava river atmosphere. Do not depict the National Library of Latvia building, its angular glass silhouette, or any distorted modern library exterior.
+
+Main subject:
+Show the idea of a cloud Jupyter notebook: browser tab, code cell blocks, runtime connection, cloud storage/saving cue, and collaborative notebook feel. Keep it generic rather than branded. Include humanities materials such as old books, printed sources, notes, and catalog cards.
+
+Style:
+Professional workshop notebook illustration, warm and clear, visually consistent with session 0 images. Muted navy, cream, teal, warm wood, and rust accents.
+
+Composition:
+Laptop centered or slightly right, archival materials in foreground, subtle cloud/runtime icons above or around the screen.
+
+Constraints:
+No Google logo, no Colab logo, no real product branding, no watermark, no embedded title text, no readable generated code required.

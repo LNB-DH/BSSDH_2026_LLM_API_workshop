@@ -1,0 +1,21 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for three Latvian digital humanities LLM examples: old-script OCR normalization, topic-based corpus building, and semantic term extraction from novels.
+
+Scene and background:
+Professional archive/research desk with Riga Old City visible through a window: historic rooftops, church spires, Daugava atmosphere, warm northern daylight. Do not show the National Library of Latvia building, the Castle of Light shape, angular glass architecture, or a distorted modern library exterior.
+
+Main subject:
+Three coordinated research panels on the desk or projected above a laptop:
+1. Old printed Latvian newspaper or Fraktur-like page transformed into cleaner normalized text.
+2. Topic-based corpus filtering, with ambiguous keyword results becoming a cleaner selected set.
+3. Semantic extraction from literary texts, with related transportation terms organized into a small structured table or network.
+
+Style:
+Polished digital humanities research illustration, warm archive materials, elegant notebook visual style, restrained palette of cream, navy, muted teal, warm wood, and rust.
+
+Composition:
+Three-panel horizontal structure, integrated naturally into the workspace. Each panel should be visually distinct but stylistically consistent.
+
+Constraints:
+No readable generated Latvian text is required; use abstract text lines and symbols. No logos, no watermark, no title text, no distorted hands, no fake institutional signage.

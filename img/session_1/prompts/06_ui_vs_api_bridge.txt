@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "LLM through UI versus LLM through API".
+
+Scene and background:
+Warm digital humanities workspace with Riga Old City skyline and old church spires visible through a window. Use archive boxes, books, and research notes in the foreground. Do not depict the National Library of Latvia building or any angular modern glass library silhouette.
+
+Main subject:
+Show a clear contrast between two ways of using an LLM. One side has a simple chat-like interface on a laptop or tablet. The other side has an automated API workflow with a Python notebook, JSON-like request cards, arrows, and batch-processing panels. A clean bridge or data connection motif links the researcher to the model service.
+
+Style:
+Professional educational illustration, not a cartoon. Warm archive setting, polished notebook-slide look, navy/cream/teal/rust palette.
+
+Composition:
+Balanced split composition: UI interaction on one side, API automation on the other. Use visual structure and icons rather than readable text.
+
+Constraints:
+No brand logos, no ChatGPT logo, no OpenAI logo, no watermark, no embedded title text, no garbled text. Avoid overloaded diagrams; keep it elegant and easy to scan.

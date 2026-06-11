@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: hero image for "Using LLMs in Humanities Research via API".
+
+Scene and background:
+Warm modern archive reading room with a large window view toward Riga Old City and the Daugava river. The skyline may suggest old church spires, historic rooftops, and a soft Baltic city atmosphere. Do not show the National Library of Latvia building, its angular glass silhouette, its waterfront exterior, or any distorted modern landmark resembling it.
+
+Main subject:
+A humanities researcher works at a wooden desk with archival papers, catalog cards, old books, and a laptop showing a Jupyter-like notebook and API request panels. Historical documents visually flow into structured digital outputs such as clean data tables, response cards, and abstract model panels.
+
+Style:
+Polished editorial educational illustration, visually similar to an elegant workshop slide. Warm daylight, restrained navy, cream, teal, muted rust, and soft gray palette. Professional digital humanities research tone, not cartoonish and not corporate stock art.
+
+Composition:
+Wide 16:9 composition with the desk and laptop in the foreground, Riga Old City visible in the background, and enough calm negative space for use as a notebook section image.
+
+Constraints:
+No real logos, no fake institution logos, no watermark, no embedded title text, no garbled text, no distorted hands, no clutter. Laptop UI can contain small abstract code-like lines, but no important readable text.

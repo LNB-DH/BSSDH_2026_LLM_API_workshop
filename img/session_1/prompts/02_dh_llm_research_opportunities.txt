@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "Why This Workshop Matters".
+
+Scene and background:
+Warm archive workspace with Riga Old City visible through tall windows: old rooftops, church spires, the Daugava river, and soft northern daylight. Do not depict the National Library of Latvia building, its distinctive angular glass form, or any distorted version of that building.
+
+Main subject:
+Show humanities research materials being transformed into multiple LLM-assisted research outputs. Include old printed pages, handwritten notes, a small archive box, and a laptop or tablet. Around them, show clean abstract panels representing named entity extraction, theme discovery, translation, OCR correction, and reusable structured datasets.
+
+Style:
+Professional digital humanities research image, warm and polished, consistent with high-quality educational notebook visuals. Use a restrained palette of cream paper, dark navy, muted teal, warm wood, and rust accents.
+
+Composition:
+Wide, balanced composition. Foreground archival sources on the left and center, digital analysis outputs moving toward the right. Clear visual flow without relying on readable text.
+
+Constraints:
+No embedded title text, no logos, no watermark, no fake brand marks, no distorted people or hands, no busy collage. If UI panels appear, they should contain abstract lines, icons, and blocks rather than readable generated text.

@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "OpenRouter API" as a model gateway.
+
+Scene and background:
+Warm research desk in a Riga Old City archive setting, with old rooftops and church spires visible through the window. Do not show the National Library of Latvia building, angular glass architecture, or any distorted version of that landmark.
+
+Main subject:
+Represent one unified API interface routing requests to multiple abstract model providers. Show a central gateway panel connected to several model nodes with varied capabilities, cost indicators, and performance comparison cues. Include a laptop with a notebook interface and humanities source documents on the desk.
+
+Style:
+Polished educational research illustration, tasteful data visualization overlays, warm paper and wood textures, restrained navy, cream, teal, and rust palette.
+
+Composition:
+Central gateway motif with multiple branching routes, but keep it readable and uncluttered. Riga Old City background should be secondary.
+
+Constraints:
+No real OpenRouter logo, no provider logos, no brand marks, no watermark, no embedded title text, no fake readable pricing. Use abstract icons and interface blocks.

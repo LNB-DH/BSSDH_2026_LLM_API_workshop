@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "Setting Up Your Environment" and checking system information/library versions.
+
+Scene and background:
+Warm research desk in front of a Riga Old City window view, with old rooftops, church spires, and soft Daugava light. Do not depict the National Library of Latvia building, its angular glass form, or any distorted modern landmark resembling it.
+
+Main subject:
+Represent reproducible computational research: Python environment, package versions, configuration file, API credential placeholder, notebook metadata, and a small checklist. Include humanities source materials to keep the setting discipline-specific.
+
+Style:
+Professional digital humanities workshop illustration, calm and practical. Warm archive materials plus crisp technical UI panels, restrained navy/cream/teal/rust palette.
+
+Composition:
+Laptop with notebook/environment panels in the center, version/checklist cards arranged around it, books and archive notes in foreground.
+
+Constraints:
+No readable actual version numbers are needed, no real secrets, no logos, no watermark, no embedded title text, no garbled dense text.

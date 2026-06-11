@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for a slightly technical overview of using LLMs through APIs.
+
+Scene and background:
+Modern archive desk with a soft view of Riga Old City rooftops, church spires, and the Daugava river. Do not show the National Library of Latvia building, any angular glass library form, or distorted modern waterfront landmark.
+
+Main subject:
+A Python/Jupyter-like notebook sends a structured JSON-like request through an HTTPS/API pathway to an abstract LLM service, then receives a structured JSON-like response. Include visual cues for API key, headers, request body, model processing, response data, and error/status handling, but use mostly abstract UI blocks rather than readable text.
+
+Style:
+Clean educational technical illustration, professional digital humanities context, warm archive materials combined with crisp digital overlays.
+
+Composition:
+Left-to-right request-response flow. Laptop/notebook on the left, abstract model/API gateway in the center, structured response panel on the right. Background remains calm and non-distracting.
+
+Constraints:
+No logos, no watermarks, no fake product names, no embedded section title, no dense readable code. Keep all text-like UI elements abstract or minimal.

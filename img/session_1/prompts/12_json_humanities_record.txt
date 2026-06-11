@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for "Understanding JSON".
+
+Scene and background:
+Archive reading room with Riga Old City visible through a window: historic rooftops, church spires, and soft northern daylight. Do not show the National Library of Latvia building, angular glass architecture, or a distorted modern library exterior.
+
+Main subject:
+Show an archival or literary record transformed into nested structured data. A historical document, catalog card, and book metadata become JSON-like objects and arrays on a laptop or floating transparent panels. Use braces, brackets, key-value shapes, and nested blocks as visual structure.
+
+Style:
+Elegant educational technical illustration, warm humanities research atmosphere, clean notebook-slide quality. Cream paper, navy syntax-like marks, muted teal structure lines, rust highlights.
+
+Composition:
+Source material on the left, structured data representation on the right, with a clear transformation path between them.
+
+Constraints:
+Readable generated text is not required. Avoid invalid-looking dense code, fake citations, logos, watermarks, and embedded section titles. Keep the data structure visually clear rather than text-heavy.

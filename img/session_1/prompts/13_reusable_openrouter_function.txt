@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: section image for creating a reusable generic function for OpenRouter-style API requests.
+
+Scene and background:
+Warm archival research workspace with Riga Old City skyline and Daugava atmosphere visible through a window. Do not depict the National Library of Latvia building, its angular glass shape, or any distorted modern library landmark.
+
+Main subject:
+A reusable Python function is represented as a reliable research tool. Show input cards for system prompt, user query, model, max tokens, and temperature flowing into a function block, then producing a response card and saved structured output. Include laptop/Jupyter motifs and humanities documents on the desk.
+
+Style:
+Polished educational illustration for a technical humanities workshop, warm and professional, consistent with session 0 visuals.
+
+Composition:
+Central function block or notebook cell with inputs on one side and outputs on the other. Keep the visual flow clear and not overly abstract.
+
+Constraints:
+No real OpenRouter logo, no provider logos, no watermark, no embedded title text, no dense readable code. Use symbolic code lines and abstract UI cards.

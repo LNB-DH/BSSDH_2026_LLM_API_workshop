@@ -1,0 +1,18 @@
+Create a 16:9 landscape educational illustration for a digital humanities workshop notebook, final target size 1672x941 px.
+
+Use case: visual roadmap for "Session 1 - Introduction to LLMs and APIs".
+
+Scene and background:
+A calm workshop desk in a Riga Old City archive setting, with a window view of historic Riga rooftops and church spires in soft daylight. Do not show the National Library of Latvia building or any angular modern glass library shape.
+
+Main subject:
+A clean learning roadmap shown as a sequence of visual stations: LLM concepts, API setup, model gateway, JSON data, reusable Python function, and class exercise. Use simple icons, arrows, notebook cards, and small interface panels, all integrated into the desk scene.
+
+Style:
+Elegant educational slide illustration, professional and research-oriented. Similar visual weight to a notebook section header image: warm archive materials, laptop/Jupyter motifs, restrained navy, cream, teal, and rust colors.
+
+Composition:
+Five or six clear visual steps across the image, left to right. Make the flow readable through icons and layout rather than text. Keep spacing clean and polished.
+
+Constraints:
+No readable labels or section title text inside the image, no logos, no watermark, no distorted text. Avoid a generic corporate flowchart; keep the setting grounded in humanities research and archival materials.
