@@ -22,6 +22,7 @@ available while you work.
 | `workshop_session_1.ipynb` | LLM and API basics, OpenRouter setup, first API requests, JSON | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_1.ipynb) |
 | `workshop_session_2.ipynb` | Latvian Economic Review corpus, named entities, summaries, concept mining, batch processing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_2.ipynb) |
 | `workshop_session_3.ipynb` | Rigasche Zeitung corpus, historical OCR, translation, and image inputs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/workshop_session_3.ipynb) |
+| `assignment_llm_api.ipynb` | Credit assignment: design a prompt, analyze a fixed historical mini-corpus, and interpret results | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LNB-DH/BSSDH_2026_LLM_API_workshop/blob/main/notebooks/assignment_llm_api.ipynb) |
 
 Participants with no prior experience using Google Colab, Jupyter notebooks, or
 Python should complete `workshop_session_0.ipynb` a day or a few days before the
