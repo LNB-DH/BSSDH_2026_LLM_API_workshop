@@ -57,7 +57,7 @@ directly in this repository.
 ## Workshop Context
 
 The workshop is part of
-[BSSDH 2026](https://www.digitalhumanities.lv/bssdh/2026/), held in Riga at the
+[BSSDH 2026](https://digitalhumanities.lv/en/bssdh/2026/), held in Riga at the
 National Library of Latvia from 3-7 August 2026. The 2026 theme is
 **Cultural Data Analytics and Meaning**.
 
