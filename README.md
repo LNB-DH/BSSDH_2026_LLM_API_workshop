@@ -101,6 +101,8 @@ knowledge.
 
 Contact: valdis.saulespurens at lnb.lv
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valdis%20Saulespurens-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdis-saulespurens/)
+
 ## Related Links
 
 - [BSSDH 2026 home page](https://www.digitalhumanities.lv/bssdh/2026/)
