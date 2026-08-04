@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">A practical mental model of large language model generation</title>
+  <desc id="desc">Source text and instructions are tokenized, placed in a finite context window, used to predict a probability distribution for the next token, and repeated to produce an output. The diagram notes that context is not permanent memory and generated text is not automatically evidence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbfb"/>
+      <stop offset="1" stop-color="#eef4f8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#17324d" flood-opacity="0.13"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#2c6674"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <text x="54" y="62" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#17324d">One practical mental model: predict the next token, then repeat</text>
+  <text x="54" y="94" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#496477">The model transforms a finite input context into a probability distribution—not a verified historical claim.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="48" y="145" width="214" height="192" rx="18" fill="#ffffff" stroke="#82aeb7" stroke-width="2"/>
+    <text x="74" y="182" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">1 · SOURCE + TASK</text>
+    <rect x="74" y="207" width="72" height="34" rx="8" fill="#d9eff1"/>
+    <text x="110" y="230" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#24515c">source</text>
+    <rect x="153" y="207" width="83" height="34" rx="8" fill="#f9e6b4"/>
+    <text x="194.5" y="230" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#6c4b08">task</text>
+    <text x="74" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#496477">Research material,</text>
+    <text x="74" y="298" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#496477">instructions, examples</text>
+  </g>
+
+  <path d="M270 241 H326" stroke="#2c6674" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="338" y="145" width="240" height="192" rx="18" fill="#ffffff" stroke="#82aeb7" stroke-width="2"/>
+    <text x="364" y="182" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">2 · TOKENS IN CONTEXT</text>
+    <g font-family="ui-monospace, Consolas, monospace" font-size="14">
+      <rect x="364" y="207" width="44" height="34" rx="7" fill="#d9eff1"/><text x="386" y="229" text-anchor="middle" fill="#24515c">The</text>
+      <rect x="414" y="207" width="59" height="34" rx="7" fill="#d9eff1"/><text x="443.5" y="229" text-anchor="middle" fill="#24515c">city</text>
+      <rect x="479" y="207" width="72" height="34" rx="7" fill="#d9eff1"/><text x="515" y="229" text-anchor="middle" fill="#24515c">tram…</text>
+    </g>
+    <text x="364" y="274" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#496477">Finite token budget shared by</text>
+    <text x="364" y="298" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#496477">instructions, source, and output</text>
+  </g>
+
+  <path d="M586 241 H642" stroke="#2c6674" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="654" y="145" width="244" height="192" rx="18" fill="#ffffff" stroke="#82aeb7" stroke-width="2"/>
+    <text x="680" y="182" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">3 · NEXT-TOKEN SCORES</text>
+    <text x="680" y="222" font-family="ui-monospace, Consolas, monospace" font-size="15" fill="#24515c">tram      0.42</text>
+    <rect x="802" y="209" width="70" height="14" rx="7" fill="#3f8c91"/>
+    <text x="680" y="255" font-family="ui-monospace, Consolas, monospace" font-size="15" fill="#24515c">carriage  0.31</text>
+    <rect x="802" y="242" width="52" height="14" rx="7" fill="#66a9ad"/>
+    <text x="680" y="288" font-family="ui-monospace, Consolas, monospace" font-size="15" fill="#24515c">train     0.09</text>
+    <rect x="802" y="275" width="20" height="14" rx="7" fill="#9cc7ca"/>
+  </g>
+
+  <path d="M906 241 H962" stroke="#2c6674" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="974" y="145" width="178" height="192" rx="18" fill="#ffffff" stroke="#82aeb7" stroke-width="2"/>
+    <text x="1000" y="182" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#17324d">4 · REPEAT</text>
+    <circle cx="1063" cy="235" r="35" fill="#f9e6b4" stroke="#d6ad4b" stroke-width="2"/>
+    <path d="M1048 235 a15 15 0 1 1 14 15" fill="none" stroke="#6c4b08" stroke-width="3" marker-end="url(#arrow)"/>
+    <text x="1063" y="298" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#496477">token → context</text>
+    <text x="1063" y="319" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#496477">→ next token</text>
+  </g>
+
+  <rect x="48" y="387" width="1104" height="84" rx="16" fill="#17324d"/>
+  <text x="78" y="423" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Research implications</text>
+  <text x="78" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" fill="#dbe8ee">Context is not permanent memory · fluent output is not evidence · model/version, prompt, source, and validation all matter.</text>
+</svg>
