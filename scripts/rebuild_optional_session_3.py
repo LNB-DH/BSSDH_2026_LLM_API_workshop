@@ -654,18 +654,23 @@ add_cell("code", r'''
     display(Markdown(f"### Original OCR for comparison\n\n```text\n{focus_excerpt}\n```"))
 
     comparison_keys = [
-        ("German normalization", "german_normalization"),
-        ("English translation", "english_translation"),
-        ("Latvian translation (optional)", "latvian_translation"),
-        ("Image-based transcription", "image_transcription"),
+        ("German normalization", "german_normalization", normalization_prompt_id),
+        ("English translation", "english_translation", english_prompt_id),
+        ("Latvian translation (optional)", "latvian_translation", latvian_prompt_id),
+        ("Image-based transcription", "image_transcription", vision_prompt_id),
     ]
 
-    for label, record_key in comparison_keys:
+    for label, record_key, expected_prompt_id in comparison_keys:
         record = api_records.get(record_key)
-        if record and record.get("request_status") == "received":
+        current_success = (
+            record
+            and record.get("prompt_id") == expected_prompt_id
+            and record.get("request_status") == "received"
+        )
+        if current_success:
             display(Markdown(f"### {label}\n\n{record['raw_response']}"))
         else:
-            print(f"{label}: not run or no successful response")
+            print(f"{label}: not run or no successful response for the current prompt")
 ''')
 
 add_cell("markdown", r'''
